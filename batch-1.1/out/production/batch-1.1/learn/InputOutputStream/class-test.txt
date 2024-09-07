@@ -1,0 +1,12 @@
+Question 1. Implement a custom class with methods for insertion, deletion, and searching.
+
+Question 2. Implement a program to read a txt file and parse its contents into a object.
+
+Question 3. Write a method to find kth largest element  in an unsorted array.
+
+Question 4. Write  a method to reverse a string in-place without using additional memory.
+
+Question 5. Implement a function to calculate the factorial of a non-negative integers using recursion.
+
+Question 6. Create a method to perform matrix multiplication.
+

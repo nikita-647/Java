@@ -1,0 +1,5 @@
+{
+  "java.project.sourcePaths": ["src", "batch-1.1/src/learn/ExceptionHandling"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"]
+}

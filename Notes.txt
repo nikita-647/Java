@@ -1,0 +1,17 @@
+Java Practice Questions:->
+
+Q1. Write a java Program to reverse an array.
+Q2. Write a method in java to Find the maximum products of two integers in an array.
+{1, 4, 3, 2, 5}  // 4,3,2,5,12,8,20,6,15,10.
+
+Q3. Create a java method to calculate the sum of Series of given numbers.
+Sum(1,2,3,......)
+Q4. Implement a java method to convert temperature from Celsius to Farenheit.
+Q5. Create a class 'Car' with attribute make, model, and year.Write methods to display
+car's details.
+Q6. Create a class "Book" with attribute title, author,and price. write methods to display 
+books details and apply a discount.
+Q7. Create a abstract class "RBI" with abstract methods minimum Balnce, minimumEndingAmount and class 'Bank' with
+attribute name and Branch. Write methods to Display banks details.
+Q8. Write a difference between abstract class and interface.
+Q9. 
